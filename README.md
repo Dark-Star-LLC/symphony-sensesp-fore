@@ -1,10 +1,12 @@
-# SensESP Project Template
+# Forward sensesp device for S/V Symphony
+This is for the forward sensesp unit installed in S/V Symphony, part of Dark Star LLC's fleet.
 
-This repository provides a template for [SensESP](https://github.com/SignalK/SensESP/) projects.
-Fork, clone or download the repository and try building and uploading the project to an ESP32 device.
-You should immediately see output on the serial monitor! Similarly, you should be able to connect to
-the WiFi access point with the same name as the device. The password is `thisisfine`.
+It has these proposed responsibilities:
+* TK
+* TK 
 
-To customize the template for your own purposes, edit the `src/main.cpp` and `platformio.ini` files.
+# SensESP
+
+This project was generated using the template for [SensESP](https://github.com/SignalK/SensESP/) projects.
 
 Comprehensive documentation for SensESP, including how to get started with your own project, is available at the [SensESP documentation site](https://signalk.org/SensESP/).
